@@ -36,7 +36,7 @@ Guangxiang Zhao, Xu Sun, Jingjing Xu, Zhiyuan Zhang and Liangchen Luo. 2019. MUS
 In general, document-level machine translation aims at exploiting the useful document-level information (multiple sentences around the current sentence or the whole document) to improve the translation quality of the current sentence as well as the coherence and cohension of the translated document. Unfortunately, there is no widely used dataset in document-level translation.
 
 ### 3.1. Evaluation on BLEU
-In 2019, Maruf et al. evaluated their method on three diverse datasets on English-German translation including TED, NEWS and Europarl. Below we show the training/development/test corpora statistics of the datasets (Docuemnt Length denotes average sentence number in each document).
+In 2019, Maruf et al. evaluated their method on three diverse datasets on English-German translation including TED, NEWS and Europarl. Below we show the training/development/test corpora statistics of the datasets. (Document length denotes average sentence number in each document).
 
 | Domain  | #Sentences      | Document Length    |
 | ------- | --------------- | ------------------ |
